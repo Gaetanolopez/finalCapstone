@@ -1,2 +1,7 @@
 # finalCapstone
-This unsupervised learning project is related to data analysis and visualization tasks such as data cleaning, data exploration, data transformation and feature extraction using pandas and scikit-learn library. It includes several steps such as setting decimal precision, calculating statistics, handling missing values, plotting histograms, creating summary tables, imputing missing values using KNN, creating correlation plots, performing Principal Component Analysis (PCA), creating biplots, creating cumulative variance plots, Scree plots, Hierarchical Clustering, K-Means Clustering and visualizing the results of these analysis using matplotlib library.
+
+This unsupervised learning project uses pandas and scikit-learn library to clean, explore, transform and extract features from data. It includes steps like setting decimal precision, calculating statistics, handling missing values, plotting histograms, creating summary tables, imputing missing values, creating correlation plots, performing PCA, creating biplots, creating cumulative variance plots, Scree plots, Hierarchical Clustering, K-Means Clustering and visualizing results using matplotlib.
+
+
+
+
