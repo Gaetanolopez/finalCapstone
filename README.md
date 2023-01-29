@@ -1,7 +1,11 @@
-# finalCapstone
+This code is analyzing the relationship between four different factors: murder rate, rape rate, urban pop, and assault rate.
 
-This unsupervised learning project uses pandas and scikit-learn library to clean, explore, transform and extract features from data. It includes steps like setting decimal precision, calculating statistics, handling missing values, plotting histograms, creating summary tables, imputing missing values, creating correlation plots, performing PCA, creating biplots, creating cumulative variance plots, Scree plots, Hierarchical Clustering, K-Means Clustering and visualizing results using matplotlib.
+The code first uses a technique called principal component analysis (PCA) to reduce the dimensionality of the data and make it easier to visualize.
 
+Next, the code uses two different clustering methods to group similar data points together.
 
+The first method is called complete linkage and it creates a hierarchical tree-like structure called a dendrogram to show how similar or dissimilar the data points are to each other.
 
+The second method is called k-means clustering, where the data is divided into a specified number of clusters (in this case 4). The code then plots the data points and the cluster centroids on a graph, with each cluster being represented by a different color.
 
+By analyzing these plots, one can gain insights into how the different factors such as murder rate, rape rate, urban population, and assault rate are related to each other and which states or regions may have similar values for these factors. Additionally, the data visualization provides a way to identify any potential outliers or patterns in the data.
