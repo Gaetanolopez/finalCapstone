@@ -1,4 +1,4 @@
-This code is analyzing the relationship between four different factors: murder rate, rape rate, urban pop, and assault rate.
+This code is analyzing the relationship between three different factors: murder rate, rape rate, and assault rate.
 
 The code first uses a technique called principal component analysis (PCA) to reduce the dimensionality of the data and make it easier to visualize.
 
